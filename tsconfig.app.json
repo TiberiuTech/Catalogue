@@ -16,5 +16,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src", "src/components/courses", "src/components/auth", "src/components/layout", "src/components/grades"]
 }
